@@ -6,7 +6,13 @@ Transforme Cowork en agent d'acquisition de bout en bout pour des indépendants 
 
 ## Installation (participants)
 
-Dans Cowork : ajouter le marketplace, puis installer le plugin `livementor-acquisition`. Les skills deviennent disponibles via `/livementor-acquisition:<skill>`.
+Dans Cowork → Customize → Plugins, ajouter un marketplace par URL :
+
+```
+https://github.com/Arcadia-SU/livementor-acquisition
+```
+
+Puis installer le plugin `livementor-acquisition`. Les skills deviennent disponibles via `/livementor-acquisition:<skill>`.
 
 ## Skills
 
