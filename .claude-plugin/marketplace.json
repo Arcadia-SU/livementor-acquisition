@@ -1,0 +1,16 @@
+{
+  "name": "livementor-plugins",
+  "owner": {
+    "name": "Arcadia (Stride-Up)",
+    "email": "oscar@stride-up.fr",
+    "url": "https://stride-up.fr"
+  },
+  "plugins": [
+    {
+      "name": "livementor-acquisition",
+      "source": "./plugins/livementor-acquisition",
+      "description": "Bootcamp LiveMentor « Un agent IA pour trouver mes clients ». Transforme Claude Cowork en agent d'acquisition de bout en bout : sourcing de prospects, prospection personnalisée, création de contenu, conversion. Pensé pour des indépendants non-développeurs.",
+      "version": "0.1.0"
+    }
+  ]
+}
